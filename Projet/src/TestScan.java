@@ -19,7 +19,7 @@ public class TestScan {
         System.out.println("Digite sua altura");
         String altura = scanner.next();
 
-        System.out.println("Ola princeesa, você é uma gatora linda!!");
+        System.out.println("Ola princesa, você é uma garota linda!!");
         System.out.println("Seu nome é " + nome + " " + sobrenome);
         System.out.println("Sua altura é " + altura);
         System.out.println("Sua idade é " + idade);
